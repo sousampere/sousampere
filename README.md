@@ -30,7 +30,8 @@ To contact me :
  - [LinkedIn](https://fr.linkedin.com/in/gaspardtourdiat)
  - [My website](https://gaspardtourdiat.fr/)
  - [For 42 students (my intra profile)](https://profile.intra.42.fr/users/gtourdia)
-## 📕 <img src="42_mulhouse_logo">
+## 📕 42_mulhouse_logo
 
 ![42Mulhouse](https://camo.githubusercontent.com/242a608f6e84c19ca24b2fb5c5935d921ff5e79090a91d8b2be3c72626c66272/68747470733a2f2f6173736574732e6b6d302e6f6d65726c6f636c69656e74732e636f6d2f636f6d6d756e6974792f63666265356130622d373633372d343361302d393466392d3764663266633238386331642e6a7067)
+
 
