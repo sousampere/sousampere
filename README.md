@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**sousampere/sousampere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ./Hello_World 👋
 
-Here are some ideas to get you started:
+Welcome to my github ! Here, you will find all my public projects. These are mostly going to be projects from School 42, since I'm going to publish most of them here.
+## ℹ $> whoami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Gaspard. I'm a french student at the 42 Mulhouse school.
+
+## ✨ $> cat favourite_projects.dat
+
+ - [42 push_swap](https://github.com/sousampere/42_push_swap)
+ - [42 get_next_line](https://github.com/sousampere/42_get_next_line)
+ - [42 printf](https://github.com/sousampere/42_printf)
+
+## 📄 $> ls
+
+
+|Name|Description|Language|
+|---|---|---|
+|[42 push_swap](https://github.com/sousampere/42_push_swap)|Implementation of the push_swap project of school 42|C|
+|[42 printf](https://github.com/sousampere/42_printf)|Implementation of the ft_printf project of school 42|C|
+|[42 get_next_line](https://github.com/sousampere/42_get_next_line)|Implementation of the get_next_line project of school 42|C|
+|[42 libft](https://github.com/sousampere/42_libft)|Implementation of the libft project of school 42|C|
+
+
+## ✏ $> hostname 
+
+To contact me :
+
+ - [LinkedIn](https://fr.linkedin.com/in/gaspardtourdiat)
+ - [My website](https://gaspardtourdiat.fr/)
+ - [For 42 students (my intra profile)](https://profile.intra.42.fr/users/gtourdia)
+## 📕 <img src="42_mulhouse_logo">
+
+![42Mulhouse](https://camo.githubusercontent.com/242a608f6e84c19ca24b2fb5c5935d921ff5e79090a91d8b2be3c72626c66272/68747470733a2f2f6173736574732e6b6d302e6f6d65726c6f636c69656e74732e636f6d2f636f6d6d756e6974792f63666265356130622d373633372d343361302d393466392d3764663266633238386331642e6a7067)
+
