@@ -17,6 +17,8 @@ My name is Gaspard. I'm a french student at the 42 Mulhouse school.
 
 |Name|Description|Language|
 |---|---|---|
+|[42 Python Module 03](https://github.com/sousampere/42_python_module_03)|Implementation of the python_module_03 project of school 42|Python|
+|[42 Python Module 02](https://github.com/sousampere/42_python_module_02)|Implementation of the python_module_02 project of school 42|Python|
 |[42 Python Module 01](https://github.com/sousampere/42_python_module_01)|Implementation of the python_module_01 project of school 42|Python|
 |[42 Python Module 00](https://github.com/sousampere/42_python_module_00)|Implementation of the python_module_00 project of school 42|Python|
 |[42 Python Module 00 Tester](https://github.com/sousampere/python_module_00_tester)|A tester to test 42 student's python module 00 project|Python|
@@ -24,7 +26,6 @@ My name is Gaspard. I'm a french student at the 42 Mulhouse school.
 |[42 printf](https://github.com/sousampere/42_printf)|Implementation of the ft_printf project of school 42|C|
 |[42 get_next_line](https://github.com/sousampere/42_get_next_line)|Implementation of the get_next_line project of school 42|C|
 |[42 libft](https://github.com/sousampere/42_libft)|Implementation of the libft project of school 42|C|
-
 
 ## ✏ $> hostname 
 
