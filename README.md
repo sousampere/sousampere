@@ -17,6 +17,8 @@ My name is Gaspard. I'm a french student at the 42 Mulhouse school.
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[42 Python Module 08](https://github.com/sousampere/42_python_module_08)|Implementation of the python_module_08 project of school 42|Python|2026-01|
+|[42 Python Module 07](https://github.com/sousampere/42_python_module_07)|Implementation of the python_module_07 project of school 42|Python|2026-01|
 |[42 Python Module 06](https://github.com/sousampere/42_python_module_06)|Implementation of the python_module_06 project of school 42|Python|2026-01|
 |[42 Python Module 05](https://github.com/sousampere/42_python_module_05)|Implementation of the python_module_05 project of school 42|Python|2026-01|
 |[42 Python Module 04](https://github.com/sousampere/42_python_module_04)|Implementation of the python_module_04 project of school 42|Python|2026-01|
