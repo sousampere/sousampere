@@ -8,6 +8,7 @@ My name is Gaspard. I'm a french student at the 42 Mulhouse school.
 
 ## ✨ $> cat favourite_projects.dat
 
+ - [42 call_me_maybe](https://github.com/sousampere/42_call_me_maybe)
  - [42 push_swap](https://github.com/sousampere/42_push_swap)
  - [42 get_next_line](https://github.com/sousampere/42_get_next_line)
  - [42 printf](https://github.com/sousampere/42_printf)
