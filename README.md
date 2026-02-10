@@ -2,9 +2,11 @@
 # ./Hello_World 👋
 
 Welcome to my github ! Here, you will find all my public projects. These are mostly going to be projects from School 42, since I'm going to publish most of them here.
+
 ## ℹ $> whoami
 
-My name is Gaspard. I'm a french student at the 42 Mulhouse school.
+My name is Gaspard. I'm a french student at the 42 Mulhouse school. While I like coding my school's projects, I also spend a lot of time creating apps, services and many other things that can be distributed to the public. I like everything about it : Finding ideas, creating designs on figma, coding the product, shipping it and marketing it.
+Most of all, I like building solutions to people's problems 🚀.
 
 ## ✨ $> cat favourite_projects.dat
 
