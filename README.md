@@ -27,6 +27,31 @@
 
 ###
 
+<h2 align="left">$> ls my_projects</h2>
+
+|Name|Description|Language|Date|
+|---|---|---|---|
+|[42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe)|Implementation of the call_me_maybe project of school 42|Python|2026-01|
+|[42 Python Module 10](https://github.com/sousampere/42_python_module_10)|Implementation of the python_module_10 project of school 42|Python|2026-01|
+|[42 Python Module 09](https://github.com/sousampere/42_python_module_09)|Implementation of the python_module_09 project of school 42|Python|2026-01|
+|[42 Python Module 08](https://github.com/sousampere/42_python_module_08)|Implementation of the python_module_08 project of school 42|Python|2026-01|
+|[42 Python Module 07](https://github.com/sousampere/42_python_module_07)|Implementation of the python_module_07 project of school 42|Python|2026-01|
+|[42 Python Module 06](https://github.com/sousampere/42_python_module_06)|Implementation of the python_module_06 project of school 42|Python|2026-01|
+|[42 Python Module 05](https://github.com/sousampere/42_python_module_05)|Implementation of the python_module_05 project of school 42|Python|2026-01|
+|[42 Python Module 04](https://github.com/sousampere/42_python_module_04)|Implementation of the python_module_04 project of school 42|Python|2026-01|
+|[42 Python Module 03](https://github.com/sousampere/42_python_module_03)|Implementation of the python_module_03 project of school 42|Python|2026-01|
+|[42 Python Module 02](https://github.com/sousampere/42_python_module_02)|Implementation of the python_module_02 project of school 42|Python|2026-01|
+|[42 Python Module 01](https://github.com/sousampere/42_python_module_01)|Implementation of the python_module_01 project of school 42|Python|2025-12|
+|[42 Python Module 00](https://github.com/sousampere/42_python_module_00)|Implementation of the python_module_00 project of school 42|Python|2025-12|
+|[42 Python Module 00 Tester](https://github.com/sousampere/python_module_00_tester)|A tester to test 42 student's python module 00 project|Python|2025-12|
+|[42 push_swap](https://github.com/sousampere/42_push_swap)|Implementation of the push_swap project of school 42|C|2025-12|
+|[42 printf](https://github.com/sousampere/42_printf)|Implementation of the ft_printf project of school 42|C|2025-11|
+|[42 get_next_line](https://github.com/sousampere/42_get_next_line)|Implementation of the get_next_line project of school 42|C|2025-11|
+|[42 libft](https://github.com/sousampere/42_libft)|Implementation of the libft project of school 42|C|2025-10|
+
+###
+
+
 <h2 align="left">Skills</h2>
 
 ###
