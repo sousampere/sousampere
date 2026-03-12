@@ -20,7 +20,7 @@
 
 <h2 align="left">$> cat favourite_projects.dat</h2>
 
- - [42 call_me_maybe](https://github.com/sousampere/42_call_me_maybe)
+ - [42 call_me_maybe](https://github.com/sousampere/42_call_me_maybe_v1.2)
  - [42 push_swap](https://github.com/sousampere/42_push_swap)
  - [42 get_next_line](https://github.com/sousampere/42_get_next_line)
  - [42 printf](https://github.com/sousampere/42_printf)
@@ -32,7 +32,7 @@
 |Name|Description|Language|Date|
 |---|---|---|---|
 |[42 A_maze_ing](https://github.com/sousampere/42_a_maze_ing)|Build a maze, animate it, and more... (42 school)|Python|2026-02|
-|[42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe)|AI/LLM constained decoding using a very small LLM (42 school)|Python|2026-01|
+|[42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe_v1.2)|AI/LLM constained decoding using a very small LLM (42 school)|Python|2026-01|
 |[42 Python Module 10](https://github.com/sousampere/42_python_module_10)|Implementation of the python_module_10 project of school 42|Python|2026-01|
 |[42 Python Module 09](https://github.com/sousampere/42_python_module_09)|Implementation of the python_module_09 project of school 42|Python|2026-01|
 |[42 Python Module 08](https://github.com/sousampere/42_python_module_08)|Implementation of the python_module_08 project of school 42|Python|2026-01|
