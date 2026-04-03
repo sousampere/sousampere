@@ -31,6 +31,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[42 Fly-in](https://github.com/sousampere/42_fly_in)|Control a fleet of drones in a 2D graph from a zone start to an end zone (42 school)|Python|2026-03|
 |[42 A_maze_ing](https://github.com/sousampere/42_a_maze_ing)|Build a maze, animate it, and more... (42 school)|Python|2026-02|
 |[42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe_v1.2)|AI/LLM constained decoding using a very small LLM (42 school)|Python|2026-01|
 |[42 Python Module 10](https://github.com/sousampere/42_python_module_10)|Python discovery project: higher-order functions, decorators, lambda expressions, lexical scoping (42 school)|Python|2026-01|
