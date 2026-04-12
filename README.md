@@ -49,6 +49,11 @@
 
 ###
 
+<h2 align="left">$> Work in progress :</h2>
+ - [42 Codexion](https://github.com/sousampere/42_codexion)
+
+###
+
 <h2 align="left">$> ls my_projects</h2>
 
 |Name|Description|Language|Date|
