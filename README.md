@@ -50,7 +50,8 @@
 ###
 
 <h2 align="left">$> Work in progress :</h2>
- - [42 Codexion](https://github.com/sousampere/42_codexion)
+
+- [42 Codexion](https://github.com/sousampere/42_codexion)
 
 ###
 
