@@ -12,28 +12,7 @@
 ![stats_2](https://github-readme-streak-stats.herokuapp.com/?user=sousampere&theme=gruvbox&hide_border=false)
 ![stats_3](https://github-readme-stats.vercel.app/api/top-langs/?username=sousampere&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-###
-
-```
-                    'c.          Gaspard / @sousampere
-                 ,xNMM.          ------------------------------------ 
-               .OMMMMo           OS: macOS 26.3.1 25D2128 arm64 
-               OMMM0,            Main language: Python 3.10+
-     .;loddo:' loolloddol;.      Main experience: FastAPI, React Native, Pydantic
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    At School 42 since: 2025-09
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Aiming: Mobile apps development & company creation
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Linkedin: https://www.linkedin.com/in/gaspardtourdiat/
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Website: https://gaspardtourdiat.fr/
-:MMMMMMMMMMMMMMMMMMMMMMMM:       
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   
-    kMMMMMMMMMMMMMMMMMMMMMMd     
-     ;KMMMMMMMWXXWMMMMMMMk.      
-       .cooc,.    .,coo:.        
-```
-                                                         
+###                                                 
                                                          
 
 <h2 align="left">$> whoami</h2>
