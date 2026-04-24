@@ -8,6 +8,10 @@
 
 <p align="left">Welcome to my github ! Here, you will find all my public projects. These are mostly going to be projects from School 42, since I'm going to publish most of them here.</p>
 
+![stats_1](https://github-readme-stats.vercel.app/api?username=sousampere&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![stats_2](https://github-readme-streak-stats.herokuapp.com/?user=sousampere&theme=gruvbox&hide_border=false)
+![stats_3](https://github-readme-stats.vercel.app/api/top-langs/?username=sousampere&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+
 ###
 
 ```
