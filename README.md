@@ -32,6 +32,12 @@
 
 ###
 
+<h2 align="left">Work in progress...</h2>
+
+ - [42 Pac-Man](https://github.com/sousampere/42_pacman)
+
+###
+
 <h2 align="left">$> ls 42_projects</h2>
 
 |Name|Description|Language|Date|
