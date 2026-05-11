@@ -8,7 +8,13 @@
 
 <p align="left">Welcome to my github ! Here, you will find all my public projects. These are mostly going to be projects from School 42, since I'm going to publish most of them here.</p>
 
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=sousampere&theme=gruvbox&hide_border=false)
+
+<p align="center">
+  <a href="https://github.com/sousampere">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sousampere&&theme=tokyonight" alt="sousampere" />
+  </a>
+</p>
+
 
 ###                                                 
                                                          
