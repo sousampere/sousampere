@@ -29,14 +29,20 @@
 
 <h2 align="left">$> cat favourite_projects.dat</h2>
 
+ - [42 Pac-Man](https://github.com/sousampere/42_pacman)
  - [42 Fly-in](https://github.com/sousampere/42_fly_in)
  - [42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe_v1.2)
 
+<div align="center">
+
+![42Mulhouse](https://github.com/sousampere/42_pacman/blob/main/assets/readme_assets/in-game.gif?raw=true)
+
+</div>
+
 ###
 
-<h2 align="left">Work in progress...</h2>
+[<h2 align="left">Work in progress...</h2>]: <>
 
- - [42 Pac-Man](https://github.com/sousampere/42_pacman)
 
 ###
 
