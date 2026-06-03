@@ -50,6 +50,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[Pac-Man](https://github.com/sousampere/42_pacman)|Recreate the pacman game in Python|Python|2026-05|
 |[Codexion](https://github.com/sousampere/42_codexion)|Orchestrate a simulation of coders with multi-threading and mutexes|C|2026-04|
 |[Fly-in](https://github.com/sousampere/42_fly_in)|Control a fleet of drones in a 2D graph from a zone start to an end zone|Python|2026-03|
 |[A_maze_ing](https://github.com/sousampere/42_a_maze_ing)|Generate a random maze, animate it, solve it, and more...|Python|2026-02|
