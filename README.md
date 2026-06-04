@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/sousampere">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sousampere&&theme=tokyonight" alt="sousampere" />
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sousampere&&theme=tokyonight" alt="sousampere" /> -->
   </a>
 </p>
 
