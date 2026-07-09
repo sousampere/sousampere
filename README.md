@@ -45,7 +45,7 @@
 
 <h2 align="left">Work in progress...</h2>
 
- - [42 RAG](https://github.com/sousampere/42_RAG)
+ - [42 RAG 2.0](https://github.com/sousampere/42_RAG_2.0)
 
 
 ###
