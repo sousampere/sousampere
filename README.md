@@ -1,5 +1,11 @@
 <h1 align="center">✨ Welcome to my GitHub ✨</h1>
 
+<p align="center">
+  <a href="https://gaspardtourdiat.fr">
+    <img src="https://github.com/sousampere/sousampere/blob/main/banner.png?raw=true" alt="banner" />
+  </a>
+</p>
+
 ###
 
 <h2 align="left">./Hello_World 👋</h2>
