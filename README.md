@@ -35,8 +35,8 @@
 
 <h2 align="left">$> cat favourite_projects.dat</h2>
 
+ - [42 RAG](https://github.com/sousampere/42_RAG_2.0)
  - [42 Pac-Man](https://github.com/sousampere/42_pacman)
- - [42 Fly-in](https://github.com/sousampere/42_fly_in)
  - [42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe_v1.2)
 
 <div align="center">
@@ -49,9 +49,8 @@
 
 [<h2 align="left">Work in progress...</h2>]: <>
 
-<h2 align="left">Work in progress...</h2>
+<!-- <h2 align="left">Work in progress...</h2> -->
 
- - [42 RAG 2.0](https://github.com/sousampere/42_RAG_2.0)
 
 
 ###
@@ -60,6 +59,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[RAG](https://github.com/sousampere/42_pacman)|Create a local RAG CLI|Python|2026-07|
 |[Pac-Man](https://github.com/sousampere/42_pacman)|Recreate the pacman game in Python|Python|2026-05|
 |[Codexion](https://github.com/sousampere/42_codexion)|Orchestrate a simulation of coders with multi-threading and mutexes|C|2026-04|
 |[Fly-in](https://github.com/sousampere/42_fly_in)|Control a fleet of drones in a 2D graph from a zone start to an end zone|Python|2026-03|
