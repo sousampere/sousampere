@@ -59,7 +59,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
-|[RAG](https://github.com/sousampere/42_pacman)|Create a local RAG CLI|Python|2026-07|
+|[RAG](https://github.com/sousampere/42_rag_2.0)|Create a local RAG CLI|Python|2026-07|
 |[Pac-Man](https://github.com/sousampere/42_pacman)|Recreate the pacman game in Python|Python|2026-05|
 |[Codexion](https://github.com/sousampere/42_codexion)|Orchestrate a simulation of coders with multi-threading and mutexes|C|2026-04|
 |[Fly-in](https://github.com/sousampere/42_fly_in)|Control a fleet of drones in a 2D graph from a zone start to an end zone|Python|2026-03|
