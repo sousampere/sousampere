@@ -49,9 +49,8 @@
 
 [<h2 align="left">Work in progress...</h2>]: <>
 
-<h2 align="left">Work in progress...</h2>
+<!-- <h2 align="left">Work in progress...</h2> -->
 
- - [42 Inception](https://github.com/sousampere/42_inception)
 
 ###
 
@@ -59,6 +58,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[Inception](https://github.com/sousampere/42_inception)|Manage multiple docker containers to create a wordpress website|Docker|2026-07|
 |[RAG](https://github.com/sousampere/42_rag_2.0)|Create a local RAG CLI|Python|2026-07|
 |[Pac-Man](https://github.com/sousampere/42_pacman)|Recreate the pacman game in Python|Python|2026-05|
 |[Codexion](https://github.com/sousampere/42_codexion)|Orchestrate a simulation of coders with multi-threading and mutexes|C|2026-04|
