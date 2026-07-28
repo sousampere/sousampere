@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1ACA58&width=435&lines=sousampere%40github%3A+~+%23;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
+
+
 <h1 align="center">✨ Welcome to my GitHub ✨</h1>
 
 <p align="center">
