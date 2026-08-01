@@ -10,6 +10,8 @@
   </a>
 </p>
 
+
+
 ###
 
 <h2 align="left">./Hello_World 👋</h2>
@@ -24,6 +26,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sousampere&&theme=tokyonight" alt="sousampere" />
   </a>
 </p> -->
+
+
 
 
 ###                                                 
@@ -58,7 +62,12 @@
 
 ###
 
-<h2 align="left">$> ls 42_projects</h2>
+<h2 align="left">$> ls ./projetcs/</h2>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sousampere/sousampere/3a8bdd000935997e348326c752948f9f0b959e2c/assets/personal_projects.svg" alt="banner" width="45%" />
+    <img src="https://raw.githubusercontent.com/sousampere/sousampere/3a8bdd000935997e348326c752948f9f0b959e2c/assets/school_projects.svg" alt="banner" width="45%" />
+</p>
 
 |Name|Description|Language|Date|
 |---|---|---|---|
