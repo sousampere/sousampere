@@ -57,9 +57,9 @@
 
 [<h2 align="left">Work in progress...</h2>]: <>
 
-<h2 align="left">Work in progress...</h2>
+<h2 align="left">WIP on</h2>
 
- - [42 Call_me_maybe](https://github.com/sousampere/gaspardtourdiat.fr)
+ - [GaspardTourdiat.FR](https://github.com/sousampere/gaspardtourdiat.fr)
 
 ###
 
