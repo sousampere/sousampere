@@ -64,10 +64,10 @@
 
 <h2 align="left">$> ls ./projetcs/</h2>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://raw.githubusercontent.com/sousampere/sousampere/3a8bdd000935997e348326c752948f9f0b959e2c/assets/personal_projects.svg" alt="banner" width="45%" />
     <img src="https://raw.githubusercontent.com/sousampere/sousampere/3a8bdd000935997e348326c752948f9f0b959e2c/assets/school_projects.svg" alt="banner" width="45%" />
-</p>
+</p> -->
 
 |Name|Description|Language|Date|
 |---|---|---|---|
