@@ -45,7 +45,7 @@
 
  - [42 RAG](https://github.com/sousampere/42_RAG_2.0)
  - [42 Pac-Man](https://github.com/sousampere/42_pacman)
- - [42 Call_me_maybe](https://github.com/sousampere/42_call_me_maybe_v1.2)
+ - [42 Agent Smith](https://github.com/sousampere/42_agent_smith)
 
 <div align="center">
 
@@ -55,13 +55,11 @@
 
 ###
 
-[<h2 align="left">Work in progress...</h2>]: <>
+<h2 align="left">Work in progress...</h2>
 
-<h2 align="left">WIP on</h2>
+<!-- <h2 align="left">WIP on</h2> -->
 
  - [GaspardTourdiat.FR](https://github.com/sousampere/gaspardtourdiat.fr)
-
- - [Agent Smith](https://github.com/KeroBeros68/42-Agent-Smith)
 
  - [Libftpp](https://github.com/sousampere/42_libftpp)
 
@@ -76,6 +74,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[Agent Smith](https://github.com/sousampere/42_agent_smith)|Realizing different benchmarks on different LLMs|Python|2026-07|
 |[Inception](https://github.com/sousampere/42_inception)|Manage multiple docker containers to create a wordpress website|Docker|2026-07|
 |[RAG](https://github.com/sousampere/42_rag_2.0)|Create a local RAG CLI|Python|2026-07|
 |[Pac-Man](https://github.com/sousampere/42_pacman)|Recreate the pacman game in Python|Python|2026-05|
