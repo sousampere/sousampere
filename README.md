@@ -1,47 +1,27 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1ACA58&width=435&lines=sousampere%40github%3A+~+%23;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
 
-<h1 align="center">✨ Welcome to my GitHub ✨</h1>
+<h1 align="center">🧑‍💻 Welcome to my GitHub 🧑‍💻</h1>
 
 <p align="center">
   <a href="https://gaspardtourdiat.fr">
-    <img src="https://github.com/sousampere/sousampere/blob/main/banner.png?raw=true" alt="banner" />
+    <img src="https://github.com/sousampere/sousampere/blob/main/github-banner-2.png?raw=true" alt="banner" />
   </a>
 </p>
 
-
-
-###
-
-<h2 align="left">./Hello_World 👋</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1ACA58&width=435&lines=sousampere%40github%3A+~+%23;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
 ###
 
-<p align="left">Welcome to my github ! Here, you will find all my public projects. These are mostly going to be projects from School 42, since I'm going to publish most of them here.</p>
-
-
-<!-- <p align="center">
-  <a href="https://github.com/sousampere">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sousampere&&theme=tokyonight" alt="sousampere" />
-  </a>
-</p> -->
-
-
-
-
-###                                                 
-                                                         
-
-<h2 align="left">$> whoami</h2>
+<h2 align="left">Hell there 👋</h2>
 
 ###
 
-<p align="left">My name is Gaspard. I'm a french student at the 42 Mulhouse school. While I like coding my school's projects, I also spend a lot of time creating apps, services and many other things that can be distributed to the public. I like everything about it : Finding ideas, creating designs on figma, coding the product, shipping it and marketing it. Most of all, I like building solutions for people's problems 🚀.</p>
+<p align="left">Welcome to my GitHub ! I'm Gaspard, a computer science student at 42 Mulhouse. I enjoy building innovative solutions in my spare time, while studying computer science at school. Here, you will find all my public projects. These are mostly going to be projects from School 42, since I'm going to publish most of them here. To learn more about my school, you can refer to https://www.42mulhouse.fr/</p>
 
 ###
 
-<h2 align="left">$> cat favourite_projects.dat</h2>
+<h2 align="left">My favourite projects 🔥</h2>
 
  - [42 RAG](https://github.com/sousampere/42_RAG_2.0)
  - [42 Pac-Man](https://github.com/sousampere/42_pacman)
@@ -67,7 +47,7 @@
 
 ###
 
-<h2 align="left">$> ls ./projetcs/</h2>
+<h2 align="left">My projects 🧑‍💻</h2>
 
 <!-- <p align="center">
     <img src="https://raw.githubusercontent.com/sousampere/sousampere/3a8bdd000935997e348326c752948f9f0b959e2c/assets/personal_projects.svg" alt="banner" width="45%" />
@@ -144,21 +124,13 @@
 
 ###
 
-<h2 align="left">$> hostname</h2>
-
-To contact me :
+<h2 align="left">Get in touch with me</h2>
 
  - [LinkedIn](https://fr.linkedin.com/in/gaspardtourdiat)
  - [My website](https://gaspardtourdiat.fr/)
  - [For 42 students (my intra profile)](https://profile.intra.42.fr/users/gtourdia)
 
 ###
-
-<h2 align="left">$> sudo rm -rf /</h2>
-
-###
-
-<p align="left">... Okay maybe not this one</p>
 
 ![42Mulhouse](https://raw.githubusercontent.com/sousampere/sousampere/refs/heads/main/42mulhouse.png)
 
