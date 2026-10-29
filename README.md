@@ -56,6 +56,7 @@
 
 |Name|Description|Language|Date|
 |---|---|---|---|
+|[TAP](https://github.com/KeroBeros68/42-TAP)|Small multiplayer game based on a home-made client-server communication under the "42 RFC" protocol|C++|2026-09|
 |[Agent Smith](https://github.com/sousampere/42_agent_smith)|Realizing different benchmarks on different LLMs|Python|2026-07|
 |[Inception](https://github.com/sousampere/42_inception)|Manage multiple docker containers to create a wordpress website|Docker|2026-07|
 |[RAG](https://github.com/sousampere/42_rag_2.0)|Create a local RAG CLI|Python|2026-07|
